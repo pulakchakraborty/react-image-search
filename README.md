@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A simple component based app using react. Users can search for images in the search bar and get image results in response.
 
+![Image description](https://github.com/pulakchakraborty/React-Image-Search/blob/master/public/Search_Fruits.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
