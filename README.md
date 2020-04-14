@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Description
+
+A simple component based app using react. Users can search for images in the search bar and get image results in response.
+
 ## Available Scripts
 
 In the project directory, you can run:
